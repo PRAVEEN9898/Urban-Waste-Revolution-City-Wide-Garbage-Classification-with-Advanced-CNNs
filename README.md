@@ -1,4 +1,4 @@
-Certainly! Here's a simplified README template without code:
+
 
 # Garbage Classification Project
 
