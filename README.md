@@ -27,5 +27,3 @@ The model was trained on a dataset comprising 4000 images, achieving an accuracy
 The Garbage Classification Project demonstrates the potential of machine learning in addressing real-world challenges. Its accurate waste categorization and potential for large-scale implementation make it a valuable contribution to sustainable waste management practices.
 
 ---
-
-Feel free to tailor the content based on your specific project details.
